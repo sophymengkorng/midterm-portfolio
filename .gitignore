@@ -1,0 +1,84 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.vim/
+
+# Node and NPM
+node_modules/
+package-lock.json
+npm-debug.log
+yarn.lock
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Compiled Files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# OS-specific
+.env
+.env.local
+.env.*.local
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*.log
+
+# IDE specific
+.classpath
+.project
+.settings/
+.tern-port
+
+# VS Code specific
+settings.json
+launch.json
+
+# Build outputs
+out/
+bin/
+
+# Archive files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Configuration files with sensitive data
+.env
+config.local.js
+secrets.json
